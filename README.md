@@ -15,16 +15,15 @@
 **문제 풀이**
 
 1. 매일 한 문제씩 1일 1알고 형태로 문제풀이(주말 제외)
-
 2. 각자 한 문제씩 선정해서 다 같이 풀기
-
 3.  접근 방법과 풀이 방법 자세히 설명하기
    - 문제 해결 하지 못 했을시 접근법과 구현한 부분 까지는 설명 해 주기
-   
 4. 다른 스터디원의 코드에 대한 자신의 의견 말하기
 
 
-## 개인 Repository
+
+
+## Members
 
 - [Suhyun](https://github.com/DataCrew-Algorithm/suhyun)
 - [Haeun](https://github.com/DataCrew-Algorithm/haeun)
