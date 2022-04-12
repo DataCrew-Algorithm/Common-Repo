@@ -59,3 +59,5 @@
   - [BOJ1427 - 소트인사이드](https://www.acmicpc.net/problem/1427)
   - [BOJ1236 - 성 지키기](https://www.acmicpc.net/problem/1236)
   - [BOJ9655 - 돌 게임](https://www.acmicpc.net/problem/9655)
+  - [BOJ1076 - 저항](https://www.acmicpc.net/problem/1076)
+- Week6
