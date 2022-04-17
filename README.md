@@ -61,3 +61,5 @@
   - [BOJ9655 - 돌 게임](https://www.acmicpc.net/problem/9655)
   - [BOJ1076 - 저항](https://www.acmicpc.net/problem/1076)
 - Week6
+  - [BOJ1292 - 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
+  - [BOJ2748 - 피보나치 수 2](https://www.acmicpc.net/problem/2748)
