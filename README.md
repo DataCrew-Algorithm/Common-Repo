@@ -63,3 +63,5 @@
 - Week6
   - [BOJ1292 - 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
   - [BOJ2748 - 피보나치 수 2](https://www.acmicpc.net/problem/2748)
+  - [BOJ5086 - 배수와 약수](https://www.acmicpc.net/problem/5086)
+  - [BOJ2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)
