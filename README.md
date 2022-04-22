@@ -65,6 +65,6 @@
   - [BOJ2748 - 피보나치 수 2](https://www.acmicpc.net/problem/2748)
   - [BOJ9625 - BABBA](https://www.acmicpc.net/problem/9625)
   - [BOJ5086 - 배수와 약수](https://www.acmicpc.net/problem/5086)
-  - [BOJ2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)
+  - [BOJ2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) (추후에 다시 도전 푼사람 없음...)
 - Week7
   - [BOJ3273 - 두 수의 합](https://www.acmicpc.net/problem/3273)
