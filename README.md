@@ -38,33 +38,44 @@
 
 - Week1
   - [BOJ2231 - 분해합](https://www.acmicpc.net/problem/2231)
+  
 - Week2
   - [BOJ10809 - 알파벳 찾기](https://www.acmicpc.net/problem/10809)
   - [BOJ8958 - OX퀴즈](https://www.acmicpc.net/problem/8958)
   - [BOJ2455 - 지능형 기차 1](https://www.acmicpc.net/problem/2455)
   - [BOJ2908 - 상수](https://www.acmicpc.net/problem/2908)
   - [BOJ2920 - 음계](https://www.acmicpc.net/problem/2920)
+  
 - Week3
   - [BOJ2456 - 학급회장]( https://www.acmicpc.net/problem/2456)
   - [BOJ2839 - 설탕배달](https://www.acmicpc.net/problem/2839)
   - [BOJ3040 - 백설공주](https://www.acmicpc.net/problem/3040)
   - [BOJ2851 - 슈퍼 마리오](https://www.acmicpc.net/problem/2851)
+  
 - Week4
   - [BOJ5032 - 탄산음료](https://www.acmicpc.net/problem/5032)
   - [BOJ2750 - 수 정렬하기](https://www.acmicpc.net/problem/2750)
   - [BOJ2857 - FBI](https://www.acmicpc.net/problem/2857)
   - [BOJ5597 - 과제 안내신 분](https://www.acmicpc.net/problem/5597)
+  
 - Week5
   - [BOJ4458 - 첫 글자를 대문자로](https://www.acmicpc.net/problem/4458)
   - [BOJ1427 - 소트인사이드](https://www.acmicpc.net/problem/1427)
   - [BOJ1236 - 성 지키기](https://www.acmicpc.net/problem/1236)
   - [BOJ9655 - 돌 게임](https://www.acmicpc.net/problem/9655)
   - [BOJ1076 - 저항](https://www.acmicpc.net/problem/1076)
+  
 - Week6
   - [BOJ1292 - 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
   - [BOJ2748 - 피보나치 수 2](https://www.acmicpc.net/problem/2748)
   - [BOJ9625 - BABBA](https://www.acmicpc.net/problem/9625)
   - [BOJ5086 - 배수와 약수](https://www.acmicpc.net/problem/5086)
   - [BOJ2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) (추후에 다시 도전 푼사람 없음...)
+  
+  - [BOJ1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316) (주말 자율 문제)
+  
 - Week7
+  
+  - [BOJ14916 - 거스름 돈](https://www.acmicpc.net/problem/14916)  (휴일 자율 문제) 
+  
   - [BOJ3273 - 두 수의 합](https://www.acmicpc.net/problem/3273)
