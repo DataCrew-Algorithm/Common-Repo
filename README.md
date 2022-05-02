@@ -4,7 +4,7 @@
 
 - 기간 : 2022년 3월 ~
 
-- 참고 사이트 : [백준(BOJ)](https://www.acmicpc.net/)
+- 참고 사이트 : [백준(BOJ)](https://www.acmicpc.net/), [리트코드(LeetCode)](https://leetcode.com/)
 
 - 언어 : 파이썬
 
