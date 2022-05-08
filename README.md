@@ -65,17 +65,17 @@
   - [BOJ2748 - 피보나치 수 2](https://www.acmicpc.net/problem/2748)
   - [BOJ9625 - BABBA](https://www.acmicpc.net/problem/9625)
   - [BOJ5086 - 배수와 약수](https://www.acmicpc.net/problem/5086)
-  - [BOJ2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) (추후에 다시 도전 푼사람 없음...)
+  - [BOJ2422 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) ( 추후에 다시 도전 푼사람 없음... )
   
-  - [BOJ1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316) (주말 자율 문제)
+  - [BOJ1316 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316) ( 주말 자율 문제 )
 - Week7
   
-  - [BOJ14916 - 거스름 돈](https://www.acmicpc.net/problem/14916)  (휴일 자율 문제) 
+  - [BOJ14916 - 거스름 돈](https://www.acmicpc.net/problem/14916)  ( 휴일 자율 문제 ) 
   - [BOJ3273 - 두 수의 합](https://www.acmicpc.net/problem/3273)
   - [BOJ5635 - 생일](https://www.acmicpc.net/problem/5635)
   - [BOJ5800 - 성적 통계](https://www.acmicpc.net/problem/5800)
   - [BOJ1110 - 더하기 사이클](https://www.acmicpc.net/problem/1110)
-  - [BOJ4335 - 숫자 맞추기](https://www.acmicpc.net/problem/4335)(주말 자율 문제)
+  - [BOJ4335 - 숫자 맞추기](https://www.acmicpc.net/problem/4335) ( 주말 자율 문제 )
 
 
 
@@ -84,4 +84,7 @@
 - Week1( **Algorithm: 문자열 조작** )
   - [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/)
   - [가장 흔한 단어](https://leetcode.com/problems/most-common-word/)
-  - [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/)
+  - [그룹 애너그램](https://leetcode.com/problems/group-anagrams/)
+  - [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) ( 주말 문제 )
+- Week2( **Algorithm: 배열** )
+  - [두 수의 합](https://leetcode.com/problems/two-sum/)
