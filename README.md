@@ -82,9 +82,18 @@
 ## ⌚ 파이썬 알고리즘 인터뷰(LeetCode 활용)
 
 - Week1( **Algorithm: 문자열 조작** )
+
+  
+
   - [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/)
   - [가장 흔한 단어](https://leetcode.com/problems/most-common-word/)
   - [그룹 애너그램](https://leetcode.com/problems/group-anagrams/)
   - [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) ( 주말 문제 )
+
+  
+
 - Week2( **Algorithm: 배열** )
+  
+  
+  
   - [두 수의 합](https://leetcode.com/problems/two-sum/)
