@@ -77,7 +77,7 @@
   - [BOJ1110 - 더하기 사이클](https://www.acmicpc.net/problem/1110)
   - [BOJ4335 - 숫자 맞추기](https://www.acmicpc.net/problem/4335) ( 주말 자율 문제 )
 - Week8
-  - [BOJ10773 - 제로](https://www.acmicpc.net/problem/BOJ10773)
+  - [BOJ10773 - 제로](https://www.acmicpc.net/problem/10773)
 
 
 
