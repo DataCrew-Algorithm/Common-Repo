@@ -78,6 +78,9 @@
   - [BOJ4335 - 숫자 맞추기](https://www.acmicpc.net/problem/4335) ( 주말 자율 문제 )
 - Week8
   - [BOJ10773 - 제로](https://www.acmicpc.net/problem/10773)
+- Week9
+  - [BOJ17413 - 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
+  - [BOJ2161 - 카드1](https://www.acmicpc.net/problem/2161)
 
 
 
