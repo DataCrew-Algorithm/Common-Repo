@@ -83,6 +83,7 @@
   - [BOJ2161 - 카드1](https://www.acmicpc.net/problem/2161)
 - Week10
   - [BOJ15501 - 부당한 퍼즐](https://www.acmicpc.net/problem/15501)
+  - [BOJ1966 - 프린터 큐](https://www.acmicpc.net/problem/1966)
 
 
 
