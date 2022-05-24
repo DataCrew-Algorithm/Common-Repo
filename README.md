@@ -81,6 +81,8 @@
 - Week9
   - [BOJ17413 - 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
   - [BOJ2161 - 카드1](https://www.acmicpc.net/problem/2161)
+- Week10
+  - [BOJ15501 - 부당한 퍼즐](https://www.acmicpc.net/problem/15501)
 
 
 
