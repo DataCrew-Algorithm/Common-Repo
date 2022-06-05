@@ -89,7 +89,7 @@
 - Week11
   - [BOJ10845 - 큐](https://www.acmicpc.net/problem/10845)
   - [BOJ3986 - 좋은 단어](https://www.acmicpc.net/problem/3986)
-  - [BOJ16466 - 괄호](https://www.acmicpc.net/problem/9012)
+  - [BOJ16466 - 괄호](https://www.acmicpc.net/problem/9012) ( 자율 문제 )
 
 
 
