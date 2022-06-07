@@ -90,6 +90,9 @@
   - [BOJ10845 - 큐](https://www.acmicpc.net/problem/10845)
   - [BOJ3986 - 좋은 단어](https://www.acmicpc.net/problem/3986)
   - [BOJ16466 - 괄호](https://www.acmicpc.net/problem/9012) ( 자율 문제 )
+- Week12
+  - [BOJ10994 - 별 찍기-19](https://www.acmicpc.net/problem/10994)
+  - [BOJ1927 - 최소 힙](https://www.acmicpc.net/problem/1927)
 
 
 
