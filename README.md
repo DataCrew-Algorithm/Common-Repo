@@ -93,6 +93,8 @@
 - Week12
   - [BOJ10994 - 별 찍기-19](https://www.acmicpc.net/problem/10994)
   - [BOJ1927 - 최소 힙](https://www.acmicpc.net/problem/1927)
+  - [BOJ2606 - 바이러스](https://www.acmicpc.net/problem/2606)
+  - [BOJ1260 - DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
 
 
