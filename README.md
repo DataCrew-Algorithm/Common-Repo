@@ -97,6 +97,9 @@
   - [BOJ1260 - DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - Week13
   - [BOJ1012 - 유기농 배추](https://www.acmicpc.net/problem/1012)
+  - [BOJ9327 - 상근이의 여행](https://www.acmicpc.net/problem/9327)
+  - [BOJ2644 - 촌수계산](https://www.acmicpc.net/problem/2644)
+  - [BOJ16173 - 점프왕 쩰리 (Small)](https://www.acmicpc.net/problem/16173)
 
 
 
