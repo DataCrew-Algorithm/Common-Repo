@@ -100,6 +100,15 @@
   - [BOJ9327 - 상근이의 여행](https://www.acmicpc.net/problem/9327)
   - [BOJ2644 - 촌수계산](https://www.acmicpc.net/problem/2644)
   - [BOJ16173 - 점프왕 쩰리 (Small)](https://www.acmicpc.net/problem/16173)
+- Week14
+  - [BOJ4963 - 섬의 개수](https://www.acmicpc.net/problem/4963)
+  - [BOJ2210 - 숫자판 점프](https://www.acmicpc.net/problem/2210)
+- Week15
+  - [BOJ2667 - 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+  - [BOJ11403- 경로 찾기](https://www.acmicpc.net/problem/11403)
+  - [BOJ1058- 친구](https://www.acmicpc.net/problem/1058)
+  - [BOJ1967 - 트리의 지름](https://www.acmicpc.net/problem/1967)
+  - [BOJ6186 - Best Grass](https://www.acmicpc.net/problem/6186)
 
 
 
