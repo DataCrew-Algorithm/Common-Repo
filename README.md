@@ -111,6 +111,8 @@
   - [BOJ6186 - Best Grass](https://www.acmicpc.net/problem/6186)
 - Week16
   - [BOJ11558 - The Game of Death](https://www.acmicpc.net/problem/11558)
+  - [BOJ2660 - 회장뽑기](https://www.acmicpc.net/problem/2660)
+  - [BOJ1389 - 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
 
 
 
