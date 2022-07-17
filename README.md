@@ -113,6 +113,9 @@
   - [BOJ11558 - The Game of Death](https://www.acmicpc.net/problem/11558)
   - [BOJ2660 - 회장뽑기](https://www.acmicpc.net/problem/2660)
   - [BOJ1389 - 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
+- Week17
+  - [BOJ2531 - 회전 초밥](https://www.acmicpc.net/problem/2531)
+  - [BOJ15649 - N과 M (1)](https://www.acmicpc.net/problem/15649)
 
 
 
