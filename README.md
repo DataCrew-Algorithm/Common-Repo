@@ -116,6 +116,8 @@
 - Week17
   - [BOJ2531 - 회전 초밥](https://www.acmicpc.net/problem/2531)
   - [BOJ15649 - N과 M (1)](https://www.acmicpc.net/problem/15649)
+  - [BOJ1406 - 에디터](https://www.acmicpc.net/problem/1406)
+  - [BOJ1463 - 1로 만들기](https://www.acmicpc.net/problem/1463)
 
 
 
