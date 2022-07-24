@@ -118,6 +118,9 @@
   - [BOJ15649 - N과 M (1)](https://www.acmicpc.net/problem/15649)
   - [BOJ1406 - 에디터](https://www.acmicpc.net/problem/1406)
   - [BOJ1463 - 1로 만들기](https://www.acmicpc.net/problem/1463)
+- Week18
+  - [BOJ9095 - 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+  - [BOJ15486 - 퇴사 2](https://www.acmicpc.net/problem/15486)
 
 
 
