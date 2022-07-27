@@ -121,6 +121,7 @@
 - Week18
   - [BOJ9095 - 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
   - [BOJ15486 - 퇴사 2](https://www.acmicpc.net/problem/15486)
+  - [BOJ1874 - 스택 수열](https://www.acmicpc.net/problem/1874)
 
 
 
