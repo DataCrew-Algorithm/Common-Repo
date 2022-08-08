@@ -123,6 +123,9 @@
   - [BOJ15486 - 퇴사 2](https://www.acmicpc.net/problem/15486)
   - [BOJ1874 - 스택 수열](https://www.acmicpc.net/problem/1874)
   - [BOJ1080 - 행렬](https://www.acmicpc.net/problem/1080)
+- Week19
+  - [BOJ1021 - 회전하는 큐](https://www.acmicpc.net/problem/1021)
+  - [BOJ1057 - 토너먼트](https://www.acmicpc.net/problem/1057)
 
 
 
