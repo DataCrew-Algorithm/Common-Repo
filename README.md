@@ -128,6 +128,9 @@
   - [BOJ1057 - 토너먼트](https://www.acmicpc.net/problem/1057)
   - [BOJ1929 - 소수 구하기](https://www.acmicpc.net/problem/1929)
   - [BOJ1149 - RGB거리](https://www.acmicpc.net/problem/1149)
+- Week20
+  - [BOJ9020 - 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
+  - [BOJ1932 - 정수 삼각형](https://www.acmicpc.net/problem/1932)
 
 
 
