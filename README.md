@@ -131,6 +131,8 @@
 - Week20
   - [BOJ9020 - 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
   - [BOJ1932 - 정수 삼각형](https://www.acmicpc.net/problem/1932)
+  - [BOJ2579 - 계단 오르기](https://www.acmicpc.net/problem/2579)
+  - [BOJ1003 - 피보나치 함수](https://www.acmicpc.net/problem/1003)
 
 
 
