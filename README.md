@@ -133,6 +133,9 @@
   - [BOJ1932 - 정수 삼각형](https://www.acmicpc.net/problem/1932)
   - [BOJ2579 - 계단 오르기](https://www.acmicpc.net/problem/2579)
   - [BOJ1003 - 피보나치 함수](https://www.acmicpc.net/problem/1003)
+- Week21
+  - [BOJ2156 - 포도주 시식 ](https://www.acmicpc.net/problem/2156)
+  - [BOJ2293 - 동전 1](https://www.acmicpc.net/problem/2293)
 
 
 
