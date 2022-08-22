@@ -136,8 +136,10 @@
 - Week21
   - [BOJ2156 - 포도주 시식 ](https://www.acmicpc.net/problem/2156)
   - [BOJ2293 - 동전 1](https://www.acmicpc.net/problem/2293)
-
-
+  - [BOJ11057 - 오르막 수](https://www.acmicpc.net/problem/11057)
+  - [BOJ3474 - 교수가 된 현우](https://www.acmicpc.net/problem/3474)
+  
+  
 
 ## ⌚ 파이썬 알고리즘 인터뷰(LeetCode 활용)
 
